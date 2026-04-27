@@ -36,7 +36,7 @@ This project builds a solar DC power output forecasting system using real sensor
 
 ## Live Demo
 
-> 🚀 [Launch App on Streamlit Cloud](https://your-app-url.streamlit.app) ← replace after deployment
+> 🚀 [Launch App on Streamlit Cloud](https://solar-power-generation-forecasting-jikb5jn7otdlxzbzu75kg9.streamlit.app/)
 
 ---
 
